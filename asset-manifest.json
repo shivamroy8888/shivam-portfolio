@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shivam-portfolio/static/css/main.235c876f.css",
-    "main.js": "/shivam-portfolio/static/js/main.ea1f78bc.js",
+    "main.js": "/shivam-portfolio/static/js/main.57179c1e.js",
     "index.html": "/shivam-portfolio/index.html",
     "main.235c876f.css.map": "/shivam-portfolio/static/css/main.235c876f.css.map",
-    "main.ea1f78bc.js.map": "/shivam-portfolio/static/js/main.ea1f78bc.js.map"
+    "main.57179c1e.js.map": "/shivam-portfolio/static/js/main.57179c1e.js.map"
   },
   "entrypoints": [
     "static/css/main.235c876f.css",
-    "static/js/main.ea1f78bc.js"
+    "static/js/main.57179c1e.js"
   ]
 }
